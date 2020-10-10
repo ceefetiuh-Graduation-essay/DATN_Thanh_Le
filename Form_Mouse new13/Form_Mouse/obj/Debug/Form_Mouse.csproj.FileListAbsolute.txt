@@ -1,0 +1,45 @@
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe.config
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csprojResolveAssemblyReference.cache
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Form_Mouse.resources
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Properties.Resources.resources
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csproj.GenerateResource.Cache
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\gd96\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.pdb
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe.config
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.exe
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.pdb
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.pdb
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Form_Mouse.resources
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Properties.Resources.resources
+C:\Users\Thanh Le\Desktop\DATN\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csproj.GenerateResource.Cache
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe.config
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\bin\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csprojResolveAssemblyReference.cache
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Form_Mouse.resources
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.Properties.Resources.resources
+C:\Users\huydi\Desktop\Form_Mouse\Form_Mouse\obj\Debug\Form_Mouse.csproj.GenerateResource.Cache
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\bin\Debug\Form_Mouse.exe.config
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\bin\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\bin\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.csprojResolveAssemblyReference.cache
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.Form_Mouse.resources
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.Properties.Resources.resources
+C:\Users\huydi\Desktop\Form_Mouse new\Form_Mouse\obj\Debug\Form_Mouse.csproj.GenerateResource.Cache
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\bin\Debug\Form_Mouse.exe.config
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\bin\Debug\Form_Mouse.exe
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\bin\Debug\Form_Mouse.pdb
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.csprojResolveAssemblyReference.cache
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.Form_Mouse.resources
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.Properties.Resources.resources
+C:\Users\huydi\Desktop\Form_Mouse new13\Form_Mouse\obj\Debug\Form_Mouse.csproj.GenerateResource.Cache

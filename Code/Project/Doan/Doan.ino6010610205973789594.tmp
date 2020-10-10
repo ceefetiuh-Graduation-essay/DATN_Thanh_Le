@@ -1,0 +1,68 @@
+#include <ps2.h>
+#include <stdint.h>
+
+
+PS2 mouse(6,7); // 7-vang-clock, 6 xanh-data
+
+  int16_t mstat;
+  int16_t mx,my;//mx_new,mx_old,my_new,my_old;
+  char tempX,tempY;
+/*
+ * initialize mouse. Reset, and place it into remote
+ * mode, so we can get the encoder data on demand.
+ */
+void mouse_init()
+{
+  mouse.write(0xff);  // reset
+  mouse.read();  // ack byte
+  mouse.read();  // blank */
+  mouse.read();  // blank */
+  mouse.write(0xf0);  // remote mode
+  mouse.read();  // ack
+  delayMicroseconds(100);
+}
+
+void setup()
+{
+  Serial.begin(9600);
+  mouse_init();
+}
+
+/*
+ * get a reading from the mouse and report it back to the
+ * host via the serial line.
+ */
+void loop()
+{
+  
+
+  /* get a reading from the mouse */
+  mouse.write(0xeb);  // give me data!
+  mouse.read();      // ignore ack
+  mstat = mouse.read();
+  mx = mouse.read();
+  my = mouse.read();
+ if(mx==129)
+ tempX--;
+ else if(mx==127)
+ tempX++;
+ if(my==129)
+ tempY--;
+ else if(my==127)
+ tempY++;
+ 
+ /*map using */
+ 
+ /* send the data back up */
+  Serial.print(mstat, BIN);
+  Serial.print("\tX=");
+  Serial.print(mx, DEC);
+  Serial.print("\tY=");
+  Serial.print(my, DEC);
+  Serial.print("\ttempX=");
+  Serial.print(tempX, DEC);
+  Serial.print("\ttempY=");
+  Serial.print(tempY, DEC);
+  Serial.println();
+  delay(500);  /* twiddle */
+}
